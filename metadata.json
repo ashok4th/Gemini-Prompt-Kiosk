@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Gemini Prompt Kiosk",
+  "description": "A sleek and modern web application to interact with the Google Gemini API. Enter a prompt and receive a generated response in real-time, showcasing the power of generative AI.",
+  "requestFramePermissions": []
+}
